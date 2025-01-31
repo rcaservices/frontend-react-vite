@@ -40,6 +40,17 @@ src/
 │── styles/global.css
 ```
 
+# Install Dependencies
+Before proceeding, ensure you have Tailwind CSS installed:
+
+``` sh
+cd frontend
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+
+
 # Running the App
 After adding all these files, start your app:
 
