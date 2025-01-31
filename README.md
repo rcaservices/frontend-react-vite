@@ -25,3 +25,17 @@ frontend/
 │   ├── robots.txt
 │── README.md
 ```
+# Project Structure Update
+```
+src/
+│── components/
+│   ├── Navbar.jsx
+│   ├── Sidebar.jsx
+│   ├── Button.jsx
+│── pages/
+│   ├── Login.jsx
+│   ├── Dashboard.jsx
+│── App.jsx
+│── main.jsx
+│── styles/global.css
+```
