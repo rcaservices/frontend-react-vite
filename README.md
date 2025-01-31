@@ -39,3 +39,16 @@ src/
 │── main.jsx
 │── styles/global.css
 ```
+
+# Running the App
+After adding all these files, start your app:
+
+``` sh
+npm run dev
+```
+If you're using Docker:
+
+```sh
+docker build -t my-frontend .
+docker run -p 3000:3000 my-frontend
+```
